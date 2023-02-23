@@ -22,7 +22,7 @@ gem "require_all"
 
 # Used to generate seed data
 # https://github.com/faker-ruby/faker
-gem "faker", "~> 2.18"
+gem "faker", "~> 3.1.1"
 
 # These gems will only be used when we are running the application locally
 group :development do
